@@ -1,0 +1,5 @@
+D:\Practice\MovieTheatre\MovieTheatre\bin\Debug\MovieTheatre.exe
+D:\Practice\MovieTheatre\MovieTheatre\bin\Debug\MovieTheatre.pdb
+D:\Practice\MovieTheatre\MovieTheatre\obj\x86\Debug\MovieTheatre.exe
+D:\Practice\MovieTheatre\MovieTheatre\obj\x86\Debug\MovieTheatre.pdb
+D:\Practice\MovieTheatre\MovieTheatre\obj\x86\Debug\MovieTheatre.csprojResolveAssemblyReference.cache
